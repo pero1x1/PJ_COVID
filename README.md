@@ -9,7 +9,7 @@
 
 ## Структура репозитория
 
-```text
+```
 PJ_COVID/
 ├── homework.ipynb          # основной Jupyter Notebook с решением
 ├── metadata.csv            # метаданные по снимкам
